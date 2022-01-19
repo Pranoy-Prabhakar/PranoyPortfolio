@@ -1,0 +1,9 @@
+modalID: 4
+title: Web Automation
+date: UFT, Eclipse IDE, Jenkins, SVN, GIT
+img: Automation.png
+technology: Web Automation Testing, Regression Testing
+clientLink: "#"
+category: VB Script, Java
+shortDescription : The Project focused on web based and middleware testing using Automation framework.
+description: The framework is built on VB Script ,selenium and involved latest technologies. The Application tested is for many  domain like Banking, Financial ,Mortgages and Loans. The application handled different users and different regions according to the Bank Business rules. Optimizing the process of Regression testing using framework by building nightly batch. The Project also involved with implementation of CI/CD using Jenkins. Also integration of Automation tool UFT with test Management tool – ALM in order to track the test results.

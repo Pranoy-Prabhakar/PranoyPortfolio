@@ -1,0 +1,9 @@
+modalID: 2
+title: Testing
+date: ALM, JIRA, Jenkins, Chrome, IE, Firefox, MS Excel, MS Word
+img: Testing.png
+technology: Smoke Testing, System Testing , Functional Testing, User Acceptance Testing.
+clientLink: "#"
+category: VBA, Java, SQL, Windows Batch commands
+shortDescription : The Project aims at assuring the quality of a web based bank application by performing <strong>Smoke Testing, System Testing and Functional Testing</strong>.
+description: The Application is use to open the savings and payment contract for the bank client, It also handles different users and different regions according to Bank Business rules. The application is tested against the business requirement and the changing production environments as and when the development cycles are complete. Quality Center is instrumental for the application lifecycle management. ALM is Microfocus tool used for project management.

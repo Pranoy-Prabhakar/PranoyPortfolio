@@ -1,0 +1,9 @@
+modalID: 3
+title: API Testing
+date: SOAP UI, UFT, ALM
+img: API_Testing.png
+technology: API Testing, Web Service Automation.
+clientLink: "#"
+category: VBA, Groovy
+shortDescription : The Project aims at validation of interfaces used in bank application by performing <strong>API Testing</strong>.
+description: The Web application uses web services and is important component, needs to be validated properly before it integrates with front end. Creation and Execution of test cases as per the business requirement. The testing includes both SOAP and REST API using SOAPUI from parasoft. The project also focus on automation of web services testing using Microfocus UFT.

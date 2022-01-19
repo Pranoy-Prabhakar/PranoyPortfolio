@@ -1,0 +1,9 @@
+modalID: 5
+title: Test Data Mangement
+date: CA Test Data Manager, CA Fast Data Masker, Jenkins, Eclipse, Oracle SQL Developer.
+img: TDM.png
+technology: Test Data Mangement, Data Masking, Data Subsetting, Systhetic Data Generation.
+clientLink: "#"
+category: SQL, Java, VBScript
+shortDescription : The Project focuses on implementation of Test Data management as service through out the bank.
+description: The TDM services includes Test Data Provisioning, Test Data Modelling, Test Data Subsetting, Test Data Masking and Synthetic data generation.Administrating the ODR Portal which basically helps end user in requesting and tracking the test data request. The Project also involves in TDM job creation using Jenkins and CA Test Data Manager which helps Testing and development team to enable one touch automation.

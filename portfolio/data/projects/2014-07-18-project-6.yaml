@@ -1,0 +1,9 @@
+modalID: 6
+title: GDPR
+date: CA Test Data Manger Portal, CA Fast Data Masker
+img: GDPR.png
+technology: Data Making, Data Generation, Data Subset, Data Profiling.
+clientLink: "#"
+category: Groovy Script, SQL, Java.
+shortDescription : The project aims at identification of Personal Identifiable Information(PII) for the bank systems in lower environments, and use CA Fast Data Masker to scramble the data to make it GDPR Complaint.
+description: The Project focused at Scanning of whole system database for Personal Identifiable Information (PII) using CA Test Data Manager Portal.Gather the data consistency information which helps to develop the masking script.the project also includes to set up the process of Data Refresh from production to lower environment after masking. The project also extends to support testing and development team with correct and precise data for testing purposes using synthetic data generation.

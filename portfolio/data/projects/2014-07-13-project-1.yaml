@@ -1,0 +1,9 @@
+modalID: 1
+title: Web Development
+date: Eclipse IDE, STS, Maven, Jenkins, Oracle SQL Developer, SVN
+img: Web_Development.png
+technology: Front end development, Backend development.
+clientLink: "#"
+category: Java, Java Script, SQL
+shortDescription : The project focused on developing <strong>Test Data Request Management System</strong> for the Bank.
+description: The Portal helps the testing and development team to raise and track the <strong>test data request</strong> raised. It also has reporting feature which helps TDM team to optimization the process by reducing the resolution time. It also helps the end user to see the application data model at the portal itself to understand the data flow in the system. The Portal have MVC structure and developed using Spring boot , Angular JS and oracle DB.
